@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "publishConfig": {
-    "@jmcgregor:registry": "https://npm.pkg.github.com"
+    "@ManyanaDev:registry": "https://npm.pkg.github.com"
   }
 }
