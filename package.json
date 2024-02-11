@@ -1,14 +1,23 @@
 {
-  "name": "test-package",
+  "name": "@manyanadev/test-package",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "exit 0"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "j-mcgregor",
+  "license": "MIT",
   "publishConfig": {
-    "@ManyanaDev:registry": "https://npm.pkg.github.com"
-  }
+    "@j-mcgregor:registry": "https://npm.pkg.github.com"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManyanaDev/test-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ManyanaDev/test-package/issues"
+  },
+  "homepage": "https://github.com/ManyanaDev/test-package#readme",
+  "description": ""
 }
